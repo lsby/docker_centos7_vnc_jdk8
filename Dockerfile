@@ -5,4 +5,4 @@ USER root
 ADD docker /root/docker
 WORKDIR /root/docker
 
-RUN chmod a+x run.sh && bash run.sh
+RUN chmod a+x run.sh && bash run.sh 
