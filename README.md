@@ -1,1 +1,1 @@
-# docker_centos7_vnc_java8
+# docker_centos7_vnc_jdk8
